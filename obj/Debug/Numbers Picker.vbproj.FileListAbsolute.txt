@@ -1,0 +1,15 @@
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\02 Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.xml

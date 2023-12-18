@@ -1,0 +1,14 @@
+C:\Users\BMD Director\Documents\Abby2\bin\Debug\Abby2.exe.config
+C:\Users\BMD Director\Documents\Abby2\bin\Debug\Abby2.exe
+C:\Users\BMD Director\Documents\Abby2\bin\Debug\Abby2.pdb
+C:\Users\BMD Director\Documents\Abby2\bin\Debug\Abby2.xml
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.Form1.resources
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.Resources.resources
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.exe
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.xml
+C:\Users\BMD Director\Documents\Abby2\obj\Debug\Abby2.pdb

@@ -1,0 +1,30 @@
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby2_new.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby2_new.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby2_new.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby2_new.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby2_new.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Abby2_new.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Abby2_new.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Abby2_new.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Abby2_new.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Abby2_new.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby\Numbers Picker\Numbers Picker\obj\Debug\Numbers Picker.pdb
